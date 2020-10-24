@@ -1,3 +1,3 @@
-<<<<<<< HEAD
-# Javascript--Multiconverter
->>>>>>> 
+
+# Javascript Multiconverter
+
